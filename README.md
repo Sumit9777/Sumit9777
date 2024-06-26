@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on open-source projects related to web development, particularly those using JavaScript frameworks or machine learning applications.
 - 📫 How to reach me..
 - You can reach me via:
-- Email: vvishwakarmasand132@gmail.com
+- Email: vvishwakarmasan132@gmail.com
 - LinkedIn: [Sumit LinkedIn](https://www.linkedin.com/in/sumit-vishwakarma-115a35253/)
 - - 😄 Pronouns: He/Him
 - ⚡ Fun fact:  I like to play cricket and enjoy making cricket bats
